@@ -1,0 +1,10 @@
+1. Joe was asked by her teacher to visit the computer lab for a surprise test on arrays . He was given two arrays and was
+asked to merge them into one . Help Joe to pass the surprise test by writing the approriate code for the given statement.
+
+2.Write a program where initially you will have to create an array and copy the elements to another array.
+
+3.Riya has been chosen as the finalist in the National Level coding contest .There she was asked to solve a basic problem regarding sorting out the 
+unique elements from a large number . Help Riya to win the contest by writing a program to print the unique elements present in a large number.
+
+4. You must be familiar with matrices and determinants you were being taught in your high schools . Thus you are given a matrix , write a program 
+print it's transpose .
